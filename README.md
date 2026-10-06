@@ -4,12 +4,13 @@
 
 ### 🧠 Explorador del código | 🚀 Futuro Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Buscando+la+lógica+detrás+de+todo;Aprendiendo+Kotlin+y+Backend;Construyendo+desde+las+bases" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Buscando+la+l%C3%B3gica+detr%C3%A1s+de+todo;Aprendiendo+Kotlin+y+Backend;Construyendo+desde+las+bases" alt="Typing SVG" />
 
 ---
 
 ### 🌱 **Actualmente aprendiendo:**
-`Arquitectura de Software` · `Kotlin` · `Backend` · `JSON`
+`Arquitectura de Software` · `Kotlin` · `Backend` · `JSON` · `PHP`
+
 
 ---
 
@@ -23,35 +24,26 @@ data class Developer(
     val usuario: String = "xXadrianqXx",
     val enfoque: String = "Backend & Arquitectura",
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
-    val filosofía: String = "Entender el 'por qué' antes del 'cómo'"
-)'''
-
-    🔭 Actualmente construyendo: Gestor de Tareas CLI (Kotlin + Arquitectura por capas)
-
-    🌱 Aprendiendo: Backend y Persistencia de datos
-
-    💡 Interesado en: Diseño de software limpio y Buenas prácticas
-
-    🎮 Vengo del mundo de GDScript, ahora explorando el ecosistema Kotlin
+    val filosofia: String = "Entender el 'por qué' antes del 'cómo'"
+)```
 
 🛠️ Stack Tecnológico
 <div align="center">
-Lenguajes
+💻 Lenguajes
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white
-Backend & Persistencia
+💾 Backend & Persistencia
 
 https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white
+https://img.shields.io/badge/TXT-4B4B4B?style=for-the-badge&logo=textfiles&logoColor=white
 https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-Herramientas & Entorno
+🔧 Herramientas & Entorno
 
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white
 https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 </div>
-📊 Mis Estadísticas
-<div align="center"><!-- Estadísticas generales --><img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXadrianqXx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><!-- Lenguajes más usados --><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXadrianqXx&layout=compact&langs_count=6&theme=radical" /><!-- Racha de contribuciones --><img src="https://github-readme-streak-stats.herokuapp.com/?user=xXadrianqXx&theme=radical" /></div>
