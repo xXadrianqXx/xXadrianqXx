@@ -18,14 +18,14 @@
 
 ## 🎯 Sobre mí
 
-```kotlin
+
 data class Developer(
     val nombre: String = "Adrián",
     val usuario: String = "xXadrianqXx",
     val enfoque: String = "Backend & Arquitectura",
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
     val filosofia: String = "Entender el 'por qué' antes del 'cómo'"
-)```
+) kotlin''''''
 
 
 🛠️ Stack Tecnológico
