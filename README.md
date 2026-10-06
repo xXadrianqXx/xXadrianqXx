@@ -59,11 +59,5 @@ data class Developer(
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 </div>
 
-```mermaid
-graph LR
-    A[🧱 Fundamentos] --> B[🏗️ Arquitectura]
-    B --> C[💾 Persistencia]
-    C --> D[🔌 Backend]
-```
 
 <img src="https://img.shields.io/badge/GitHub-xXadrianqXx-181717?style=for-the-badge&logo=github&logoColor=white"/>
