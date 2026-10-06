@@ -52,4 +52,11 @@ data class Developer(
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
+```mermaid
+graph LR
+    A[🧱 Fundamentos] --> B[🏗️ Arquitectura]
+    B --> C[💾 Persistencia]
+    C --> D[🔌 Backend]
+```
+
 <img src="https://img.shields.io/badge/GitHub-xXadrianqXx-181717?style=for-the-badge&logo=github&logoColor=white"/>
