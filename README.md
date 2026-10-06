@@ -47,7 +47,6 @@ data class Developer(
 
 **🔧 Herramientas & Entorno**
 
-### 🔧 Herramientas & Entorno
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -58,7 +57,7 @@ data class Developer(
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 </div>
-
+---
 ###📫 Conecta conmigo
 
 <img src="https://img.shields.io/badge/GitHub-xXadrianqXx-181717?style=for-the-badge&logo=github&logoColor=white"/>
