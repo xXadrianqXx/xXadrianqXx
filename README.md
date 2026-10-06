@@ -15,6 +15,6 @@
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Lenguajes** | ![Java](https://shields.io) ![Python](https://shields.io) ![Kotlin](https://shields.io) |
-| **Frontend** | ![Kotlin](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Frontend** | ![Kotlin Compose](https://shields.io) 
 | **Backend & BD** | ![php](https://shields.io)
 | **DevOps & Herramientas** | ![Git](https://shields.io) 
