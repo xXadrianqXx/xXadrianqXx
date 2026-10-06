@@ -18,29 +18,32 @@
 
 ## 🎯 Sobre mí
 
-
+'''kotlin
 data class Developer(
     val nombre: String = "Adrián",
     val usuario: String = "xXadrianqXx",
     val enfoque: String = "Backend & Arquitectura",
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
     val filosofia: String = "Entender el 'por qué' antes del 'cómo'"
-) kotlin''''''
-
+)
+'''
 
 🛠️ Stack Tecnológico
 <div align="center">
 💻 Lenguajes
-
+---
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+---
 💾 Backend & Persistencia
 
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/TXT-4B4B4B?style=for-the-badge&logo=textfiles&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+---
 🔧 Herramientas & Entorno
+---
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
