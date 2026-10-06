@@ -18,7 +18,7 @@
 
 ## 🎯 Sobre mí
 
-'''kotlin
+```kotlin
 data class Developer(
     val nombre: String = "Adrián",
     val usuario: String = "xXadrianqXx",
@@ -26,7 +26,7 @@ data class Developer(
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
     val filosofia: String = "Entender el 'por qué' antes del 'cómo'"
 )
-'''
+```
 
 🛠️ Stack Tecnológico
 <div align="center">
@@ -36,6 +36,8 @@ data class Developer(
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
 ---
+
+
 💾 Backend & Persistencia
 
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
