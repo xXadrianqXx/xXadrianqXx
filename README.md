@@ -25,7 +25,7 @@ data class Developer(
     val enfoque: String = "Backend & Arquitectura",
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
     val filosofia: String = "Entender el 'por qué' antes del 'cómo'"
-)```
+)``
 
 🛠️ Stack Tecnológico
 <div align="center">
