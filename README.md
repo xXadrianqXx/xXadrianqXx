@@ -24,7 +24,7 @@ data class Developer(
     val enfoque: String = "Backend & Arquitectura",
     val aprendiendo: List<String> = listOf("Kotlin", "Persistencia JSON", "APIs"),
     val filosofía: String = "Entender el 'por qué' antes del 'cómo'"
-)
+)'''
 
     🔭 Actualmente construyendo: Gestor de Tareas CLI (Kotlin + Arquitectura por capas)
 
