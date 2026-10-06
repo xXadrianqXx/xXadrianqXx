@@ -59,7 +59,7 @@ data class Developer(
 
 </div>
 
-    ---    
-    ###📫 Conecta conmigo
+  
+###📫 Conecta conmigo
 
 <img src="https://img.shields.io/badge/GitHub-xXadrianqXx-181717?style=for-the-badge&logo=github&logoColor=white"/>
