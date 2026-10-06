@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola, soy Adrián!
+# 👋 ¡Hola, soy Adrian!
 
 ### 🧠 Explorador del código | 🚀 Futuro Backend Developer
 
