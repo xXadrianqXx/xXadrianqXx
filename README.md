@@ -56,8 +56,10 @@ data class Developer(
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+
 </div>
----
-###📫 Conecta conmigo
+
+    ---    
+    ###📫 Conecta conmigo
 
 <img src="https://img.shields.io/badge/GitHub-xXadrianqXx-181717?style=for-the-badge&logo=github&logoColor=white"/>
