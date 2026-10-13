@@ -2,13 +2,13 @@
 
 # 👋 ¡Hola, soy Adrian!
 
-### 🧠 Explorador del código | 🚀 Futuro Backend Developer
+### Explorador del código | Backend Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Buscando+la+l%C3%B3gica+detr%C3%A1s+de+todo;Aprendiendo+Kotlin+y+Backend;Construyendo+desde+las+bases" alt="Typing SVG" />
 
 ---
 
-### 🌱 **Actualmente aprendiendo:**
+### **Actualmente aprendiendo:**
 `Arquitectura de Software` · `Kotlin` · `Backend` · `JSON` · `PHP`
 
 
